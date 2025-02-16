@@ -20,4 +20,3 @@ def rollDice(amountOfDice):
     print("total sum",totalsum)
     
 rollDice(number)
-
